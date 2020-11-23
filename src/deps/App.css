@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  padding: 1%
+}
+
+div.risk-counter {
+  margin-left: 1rem !important;
+  margin-right: 1rem !important; 
+}
+
+div.rowInForm:hover {
+  border: 10px solid rgb(43, 40, 40) !important;
+}
+
+div.rowInForm {
+  padding-top: 0.5rem !important;
+}
+
+footer.credits {
+  background-color: rgb(240, 240, 240);
+  color: red;
+  font-size: 14px;
+  padding: 0.75rem;
+}
+a.credits {
+  color: rgb(255, 255, 71) !important;
+}
+
+p{
+  margin-top: 0.2em !important;
+}
+
+.mainContainer{
+  border: black solid 2px; 
+  padding: 1% 
+}
+
+.btn:active {
+  background: #fff !important;
+  color: #343a40 !important;
+}
