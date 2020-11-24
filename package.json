@@ -15,6 +15,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
+  "engines": {
+    "node": "1.1.52"
+  }
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
